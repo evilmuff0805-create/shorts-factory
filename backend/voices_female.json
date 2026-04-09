@@ -1,0 +1,2380 @@
+﻿[
+    {
+        "voice_id":  "tc_68f9c6a72f0f04a417bb136f",
+        "voice_name":  "Moonjung",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "E-learning/Explainer",
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_689450bdcce4027c2f06eee8",
+        "voice_name":  "Alena",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_68785db8ba9cd7503f27d921",
+        "voice_name":  "Gowoon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational",
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_68537c9420b646f2176890ba",
+        "voice_name":  "Seojin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational",
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_68413e12459cfdf27b481183",
+        "voice_name":  "Rayeon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational",
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6837dec48fc46637a9272b88",
+        "voice_name":  "Soye",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational",
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_67d238428572120c4aa644cc",
+        "voice_name":  "Zoey",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Radio/Podcast",
+                          "TikTok/Reels/Shorts",
+                          "Conversational",
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6809c111e5e8c73f8a0237b2",
+        "voice_name":  "Jain",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Conversational",
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_67db72eb93add6902ea41e5c",
+        "voice_name":  "Eunsol",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Voicemail/Voice Assistant"
+                      ]
+    },
+    {
+        "voice_id":  "tc_67c90ad544cf859417f2fc3a",
+        "voice_name":  "Yejin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_677f3763b5a012d3b3b3e85e",
+        "voice_name":  "Hailey",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6788847e9939d48aeb8642d2",
+        "voice_name":  "Haerang",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_67512e8b0b5984173fa04685",
+        "voice_name":  "Skylar",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts",
+                          "Conversational",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "Game",
+                          "Anime",
+                          "Voicemail/Voice Assistant",
+                          "E-learning/Explainer",
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_676cda78bde49be9d17f38e0",
+        "voice_name":  "Ael",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6763bef751dc3fb17792acaf",
+        "voice_name":  "Suyoon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_675a74035ff33c1eeff6255f",
+        "voice_name":  "Wonkyung",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_66aca22c7d31e45ff05ff418",
+        "voice_name":  "Chloe",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational",
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_67513c3cf30802da48949a14",
+        "voice_name":  "Arin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_662a15c1e31aab9a774b3b31",
+        "voice_name":  "Kristen",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "Announcer",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6731b307df12333201d12b94",
+        "voice_name":  "Seolhwa",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational",
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6731b2b2478a48710ecc9158",
+        "voice_name":  "Jinhee",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Announcer",
+                          "News Reporter"
+                      ]
+    },
+    {
+        "voice_id":  "tc_66f4ecb5b1a24ceec9f6ccf0",
+        "voice_name":  "Juyoung",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_660e5c29eef728e75f95f538",
+        "voice_name":  "Patricia",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational",
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "News Reporter",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_66e266f9c568136dce8164e5",
+        "voice_name":  "Sumin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_66d91cac31a58a718f750a49",
+        "voice_name":  "Seohee",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_66d00104bda076835c38ba68",
+        "voice_name":  "Hyunji",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_659655839f7a5014fe74a76c",
+        "voice_name":  "Avery",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "Announcer",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_66b4523f259dc43de649c1d1",
+        "voice_name":  "Minchae",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_66ab0e26ec23f325b7ad51df",
+        "voice_name":  "Yeseul",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6699eb0f10b8e361d6a9aba1",
+        "voice_name":  "Minjung",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_667ce80314cb3a612d6959e8",
+        "voice_name":  "Hyemin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_666a9871abcf27a5169850d0",
+        "voice_name":  "Sojin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_641c10bfb62ae5eee6db3f9e",
+        "voice_name":  "Jenna",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "teenager",
+        "use_cases":  [
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_662a05cf14d4a303e5d0baa2",
+        "voice_name":  "Naeun",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_661797923ed12f31b61c4b5f",
+        "voice_name":  "Hansol",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_660e45ff50e0ecacaf967d22",
+        "voice_name":  "Eunbin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_65f280ecf1a9fb325938fdf9",
+        "voice_name":  "Jihyun",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_65f280c8bca6a9dc5c12c348",
+        "voice_name":  "Yeeun",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_65e02cf60c83f6b4209f4343",
+        "voice_name":  "Miran Choi",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "Announcer",
+                          "Voicemail/Voice Assistant"
+                      ]
+    },
+    {
+        "voice_id":  "tc_63a3d9e24b235ddd6541a799",
+        "voice_name":  "Charlotte",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_639ad2972cce84809db3cfd3",
+        "voice_name":  "Liz",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "News Reporter",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_65bb3a1976b69213594357fc",
+        "voice_name":  "Jinseo",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Ads/Promotion",
+                          "TikTok/Reels/Shorts",
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6568164fe05ddffee8b0e271",
+        "voice_name":  "Siyeon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6347828cd3835443f0fcd572",
+        "voice_name":  "Tina",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "teenager",
+        "use_cases":  [
+                          "Radio/Podcast",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_632a759503f3cb7b9c8a717b",
+        "voice_name":  "Lindsay",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "teenager",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "E-learning/Explainer",
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_649408f268febb61286eec85",
+        "voice_name":  "Seonha",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_64818767272f62f8ddb73948",
+        "voice_name":  "Yujin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_646f0dac2465b38f37787f64",
+        "voice_name":  "Dahyeon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6296a8797f24a46b8273606d",
+        "voice_name":  "Sophia",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Voicemail/Voice Assistant"
+                      ]
+    },
+    {
+        "voice_id":  "tc_628d9c881374f768260298b0",
+        "voice_name":  "Claire",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant"
+                      ]
+    },
+    {
+        "voice_id":  "tc_644a05b537254553823492fb",
+        "voice_name":  "Dohee",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_627ae5cd14dc32608fdaffa8",
+        "voice_name":  "Kelly",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational",
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62203cf8a08b67aac4623e41",
+        "voice_name":  "Helena",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_63e4665444a08572e32da6e1",
+        "voice_name":  "Jeong Choi",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61de29b665ffbaa1cbe5ca23",
+        "voice_name":  "Katie",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Ads/Promotion",
+                          "Game",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_63b6650cd4db9f9f9bc4ad84",
+        "voice_name":  "Jooeun",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "News Reporter"
+                      ]
+    },
+    {
+        "voice_id":  "tc_615c6b331b008225e4d0fbe3",
+        "voice_name":  "Vivien",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "News Reporter",
+                          "Announcer",
+                          "Game"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61377f18a4d286537b5aba26",
+        "voice_name":  "Vanessa",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "E-learning/Explainer",
+                          "Game"
+                      ]
+    },
+    {
+        "voice_id":  "tc_637cbfeef7f00f21e8a1c6c8",
+        "voice_name":  "Seoyeon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_63745dd5e0b6db6f3cf10924",
+        "voice_name":  "Mijin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_63622aa127f06f51e93a873c",
+        "voice_name":  "Seungyeon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_633d52c5febcba27f45eced7",
+        "voice_name":  "Mikyung",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6335061c3c90cf9e5b6b9fff",
+        "voice_name":  "Dana",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6335062fd260d463f7d7abb9",
+        "voice_name":  "Hyunju",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_631725654e0d806f7158efd1",
+        "voice_name":  "MBTI ET (F)",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62e8f21e979b3860fe2f6a24",
+        "voice_name":  "Hyelee",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts",
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62849ce44b8771d984838066",
+        "voice_name":  "Sportscaster Kang",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "News Reporter"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6271b9b22b3bf7947c23e9bc",
+        "voice_name":  "Harin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62686cc30e70d8c6b0d9b010",
+        "voice_name":  "Suji",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62686be9deec4c1bb7fd077c",
+        "voice_name":  "Ina",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6243fb7beec1a1bff3cfe6c4",
+        "voice_name":  "Dasom",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "teenager",
+        "use_cases":  [
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_622964d6255364be41659078",
+        "voice_name":  "Sena",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61e748d0fd9fb2d2cacbb04d",
+        "voice_name":  "Yena",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_618203f635ea62f8574c7d8a",
+        "voice_name":  "Bora",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game"
+                      ]
+    },
+    {
+        "voice_id":  "tc_615c6a4e369566b08b8a7a71",
+        "voice_name":  "Jian",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "teenager",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61377f7ca4d286537b5aba6c",
+        "voice_name":  "Romi",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Voicemail/Voice Assistant"
+                      ]
+    },
+    {
+        "voice_id":  "tc_612ed01c7eb720fddd3ddedf",
+        "voice_name":  "JaeYi",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_611c3f692fac944dff493a04",
+        "voice_name":  "SeHee",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_611c406d9540d10d3002e03a",
+        "voice_name":  "YeLin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_60f7a217279ffba711ce2958",
+        "voice_name":  "Gaeul",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_60a3c91b4bc87f0d62b09a50",
+        "voice_name":  "Jihee",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Voicemail/Voice Assistant"
+                      ]
+    },
+    {
+        "voice_id":  "tc_60915b5616d74069af8e8cab",
+        "voice_name":  "Bomi",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Voicemail/Voice Assistant"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6059db64e2d12a32cce1b0c7",
+        "voice_name":  "Mija",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6047863af12456064b35354e",
+        "voice_name":  "Ari",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_602bd483b1837361b08c1ab6",
+        "voice_name":  "Lady Cho",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_60194446adfd1fbe5e0dd975",
+        "voice_name":  "Lamie",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5ecbbc5599979700087711d6",
+        "voice_name":  "Hyunkyung",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5ecbbc4b0fbab10007bb3c7d",
+        "voice_name":  "Shinhe",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5ebea251fcf5110007b77d0f",
+        "voice_name":  "Dahee",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "teenager",
+        "use_cases":  [
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5ebea266728f5b00075e6215",
+        "voice_name":  "Kyungsook",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Voicemail/Voice Assistant"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5ebea1a364afaf00087fc2fb",
+        "voice_name":  "Junghee",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5ebea194728f5b00075e61e8",
+        "voice_name":  "Jewby",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5eb55ce920d1b60016e91de6",
+        "voice_name":  "Minji",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5c789c34dabcfa0008b0a390",
+        "voice_name":  "Jiyoung",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5c789c31dabcfa0008b0a38c",
+        "voice_name":  "Kukhee",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Voicemail/Voice Assistant"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5d01a52c63338e00072b8c9f",
+        "voice_name":  "Ae-ran",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5e4f7a5da82e1f000aca31af",
+        "voice_name":  "Reporter Kang",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Announcer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5c3c52caea9791000747155c",
+        "voice_name":  "Mio",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "teenager",
+        "use_cases":  [
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5d01a52563338e00072b8c9c",
+        "voice_name":  "Juha",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "tonedown",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "whisper",
+                                            "normal",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "female",
+        "age":  "elder",
+        "use_cases":  [
+                          "Audiobook/Storytelling"
+                      ]
+    }
+]

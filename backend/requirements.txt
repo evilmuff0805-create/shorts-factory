@@ -1,0 +1,29 @@
+# ===== 웹 프레임워크 =====
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+python-multipart==0.0.12
+httpx==0.27.0
+
+# ===== 환경변수 =====
+python-dotenv==1.0.1
+
+# ===== AI / LLM =====
+google-genai>=1.0.0
+openai>=1.60.0
+
+# ===== 영상 처리 =====
+ffmpeg-python==0.2.0
+yt-dlp==2024.11.4
+
+# ===== 뉴스 수집 =====
+feedparser==6.0.11
+
+# ===== YouTube Data API =====
+google-api-python-client==2.153.0
+
+# ===== 파일 저장 (Cloudflare R2 = S3 호환) =====
+boto3==1.35.0
+
+# ===== 유틸 =====
+pydantic==2.9.0
+aiofiles==24.1.0

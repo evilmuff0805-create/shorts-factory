@@ -1,0 +1,76 @@
+﻿{
+    "voices":  [
+                   {
+                       "public_owner_id":  "cb4d1ceaf9c6506b66f3836a52667f880d95a0442a47df26c7ff270e548c6fee",
+                       "voice_id":  "fHzGR8qcnsDR2uaj9r16",
+                       "date_unix":  1771742799,
+                       "name":  "Hojin Lim â Korean male voice, 30s",
+                       "accent":  "standard",
+                       "gender":  "male",
+                       "age":  "young",
+                       "descriptive":  "calm",
+                       "use_case":  "social_media",
+                       "category":  "professional",
+                       "language":  "ko",
+                       "locale":  "ko-KR",
+                       "description":  "Natural and engaging Korean male voice in his 30s. Calm, trustworthy tone optimized for YouTube narration, educational videos, and storytelling.",
+                       "preview_url":  "https://storage.googleapis.com/eleven-public-prod/database/workspace/d3939e742cb2400ea28f6a3717d635ba/voices/fHzGR8qcnsDR2uaj9r16/mHSOkKbNbNMbzezXDhpU.mp3",
+                       "usage_character_count_1y":  1292641,
+                       "usage_character_count_7d":  539675,
+                       "play_api_usage_character_count_1y":  0,
+                       "cloned_by_count":  2322,
+                       "rate":  1.0,
+                       "fiat_rate":  null,
+                       "free_users_allowed":  true,
+                       "live_moderation_enabled":  false,
+                       "featured":  false,
+                       "verified_languages":  [
+                                                  {
+                                                      "language":  "ko",
+                                                      "model_id":  "eleven_multilingual_v2",
+                                                      "accent":  "standard",
+                                                      "locale":  "ko-KR",
+                                                      "preview_url":  "https://storage.googleapis.com/eleven-public-prod/database/workspace/d3939e742cb2400ea28f6a3717d635ba/voices/fHzGR8qcnsDR2uaj9r16/mHSOkKbNbNMbzezXDhpU.mp3"
+                                                  },
+                                                  {
+                                                      "language":  "ko",
+                                                      "model_id":  "eleven_turbo_v2_5",
+                                                      "accent":  "standard",
+                                                      "locale":  "ko-KR",
+                                                      "preview_url":  "https://storage.googleapis.com/eleven-public-prod/database/workspace/d3939e742cb2400ea28f6a3717d635ba/voices/fHzGR8qcnsDR2uaj9r16/mHSOkKbNbNMbzezXDhpU.mp3"
+                                                  },
+                                                  {
+                                                      "language":  "ko",
+                                                      "model_id":  "eleven_v2_5_flash",
+                                                      "accent":  "standard",
+                                                      "locale":  "ko-KR",
+                                                      "preview_url":  "https://storage.googleapis.com/eleven-public-prod/database/workspace/d3939e742cb2400ea28f6a3717d635ba/voices/fHzGR8qcnsDR2uaj9r16/mHSOkKbNbNMbzezXDhpU.mp3"
+                                                  },
+                                                  {
+                                                      "language":  "ko",
+                                                      "model_id":  "eleven_flash_v2_5",
+                                                      "accent":  "standard",
+                                                      "locale":  "ko-KR",
+                                                      "preview_url":  "https://storage.googleapis.com/eleven-public-prod/database/workspace/d3939e742cb2400ea28f6a3717d635ba/voices/fHzGR8qcnsDR2uaj9r16/mHSOkKbNbNMbzezXDhpU.mp3"
+                                                  },
+                                                  {
+                                                      "language":  "ko",
+                                                      "model_id":  "eleven_multilingual_sts_v2",
+                                                      "accent":  "standard",
+                                                      "locale":  "ko-KR",
+                                                      "preview_url":  "https://storage.googleapis.com/eleven-public-prod/database/workspace/d3939e742cb2400ea28f6a3717d635ba/voices/fHzGR8qcnsDR2uaj9r16/mHSOkKbNbNMbzezXDhpU.mp3"
+                                                  }
+                                              ],
+                       "notice_period":  730,
+                       "instagram_username":  null,
+                       "twitter_username":  null,
+                       "youtube_username":  null,
+                       "tiktok_username":  null,
+                       "image_url":  "",
+                       "is_added_by_user":  false,
+                       "is_bookmarked":  null
+                   }
+               ],
+    "has_more":  false,
+    "last_sort_id":  null
+}

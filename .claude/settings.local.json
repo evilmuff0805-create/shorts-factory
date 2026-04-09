@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx shadcn@latest init -d)",
+      "Bash(npx shadcn@latest add card input textarea select tabs badge progress dialog label --overwrite)",
+      "Bash(npx tsc:*)",
+      "Bash(npm run:*)",
+      "Bash(find D:/app/shorts-factory/frontend/node_modules/next -name CHANGELOG*)",
+      "Bash(grep -r \"workStore\\\\|work-store\\\\|WorkStore\" D:/app/shorts-factory/frontend/node_modules/next/dist/server/ --include=*.js -l)",
+      "Bash(grep -rn 'Expected workStore to be initialized' D:/app/shorts-factory/frontend/node_modules/next/dist/ --include=*.js)",
+      "Bash(timeout 20 npx next dev)",
+      "Bash(grep -rn \"getFontFaceDeclarations\\\\|getPreloadableFonts\\\\|workStore\\\\|Expected workStore\" D:/app/shorts-factory/frontend/node_modules/next/dist/compiled/ --include=*.js)",
+      "Bash(grep -r \"16.2\\\\|BREAKING\\\\|breaking change\" D:/app/shorts-factory/frontend/node_modules/next/dist/docs/ --include=*.md)",
+      "Bash(find D:/app/shorts-factory/frontend/node_modules/next -name create-next-app* -o -name template*)",
+      "Bash(npx next:*)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(d.get\\(''''sources'''',[''''no sources'''']\\)[:5]\\)\")",
+      "Bash(python3 -c \"import json,sys; d=json.loads\\(sys.stdin.read\\(\\)[:10000]\\); print\\(type\\(d\\)\\)\")",
+      "Bash(find D:/app/shorts-factory/frontend/app D:/app/shorts-factory/frontend/components D:/app/shorts-factory/frontend/lib -name *.tsx -o -name *.ts)",
+      "Bash(pip install:*)"
+    ]
+  }
+}

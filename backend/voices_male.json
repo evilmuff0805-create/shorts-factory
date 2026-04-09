@@ -1,0 +1,3329 @@
+﻿[
+    {
+        "voice_id":  "tc_68d4b115f0486108a7eefb37",
+        "voice_name":  "Kangil",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Radio/Podcast",
+                          "Announcer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_686dc43ebd6351e06ee64d74",
+        "voice_name":  "Wonwoo",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational",
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_68662745779b66ba84fc4d84",
+        "voice_name":  "Seheon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational",
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_685ca2dcfa58f44bdbe60d65",
+        "voice_name":  "Wade",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Game",
+                          "Anime",
+                          "Conversational",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6837b58f80ceeb17115bb771",
+        "voice_name":  "Walter",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "News Reporter",
+                          "Announcer",
+                          "TikTok/Reels/Shorts",
+                          "Game",
+                          "Documentary",
+                          "Ads/Promotion",
+                          "Radio/Podcast",
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_67db753311833db994c4fed7",
+        "voice_name":  "Elias",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game",
+                          "TikTok/Reels/Shorts",
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_67d237f1782cabcc6155272f",
+        "voice_name":  "Kanno",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Rapper"
+                      ]
+    },
+    {
+        "voice_id":  "tc_67c90d6244cf859417f2fff5",
+        "voice_name":  "Chad",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "TikTok/Reels/Shorts",
+                          "Conversational",
+                          "Game"
+                      ]
+    },
+    {
+        "voice_id":  "tc_67bfc79c0fdd0f534e9567b1",
+        "voice_name":  "Gus",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "sad",
+                                            "tonedown",
+                                            "angry"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Conversational",
+                          "TikTok/Reels/Shorts",
+                          "Game",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_67b6985d4d5d632d97478263",
+        "voice_name":  "Aaron",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "sad",
+                                            "happy",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "E-learning/Explainer",
+                          "Audiobook/Storytelling",
+                          "Voicemail/Voice Assistant",
+                          "Documentary",
+                          "Ads/Promotion",
+                          "Radio/Podcast",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6791c4a4c79515dea68b4a75",
+        "voice_name":  "Logan",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "teenager",
+        "use_cases":  [
+                          "Conversational",
+                          "Game",
+                          "TikTok/Reels/Shorts",
+                          "Radio/Podcast",
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_67bfd35fda120cfcc76b9cb9",
+        "voice_name":  "Igyeom",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6777666645604e14c7ff8ee5",
+        "voice_name":  "Carl",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "E-learning/Explainer",
+                          "Ads/Promotion",
+                          "News Reporter"
+                      ]
+    },
+    {
+        "voice_id":  "tc_675932accd1349e1c9aa0c3f",
+        "voice_name":  "Oliver",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "Game",
+                          "TikTok/Reels/Shorts",
+                          "Conversational",
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_67512e5af2b6dbabce63f92a",
+        "voice_name":  "Jeff",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "sad",
+                                            "happy",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Radio/Podcast",
+                          "Documentary",
+                          "Ads/Promotion",
+                          "Audiobook/Storytelling",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant"
+                      ]
+    },
+    {
+        "voice_id":  "tc_677f2aa4a854ddffa0ebda89",
+        "voice_name":  "Hangyeol",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_673eb45cdc1073aef51e6b90",
+        "voice_name":  "Dean",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "sad",
+                                            "tonedown",
+                                            "angry"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "elder",
+        "use_cases":  [
+                          "Announcer",
+                          "News Reporter",
+                          "Documentary",
+                          "Ads/Promotion",
+                          "Audiobook/Storytelling",
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_672c5f5ce59fac2a48faeaee",
+        "voice_name":  "Dylan",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational",
+                          "TikTok/Reels/Shorts",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "News Reporter",
+                          "Game"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6633457fb5267dbd4808a2dd",
+        "voice_name":  "Landon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "News Reporter",
+                          "Announcer",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_673ecaa071c8f61f01459243",
+        "voice_name":  "Jinhan",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6620ee223bc61e2f6b79fdb5",
+        "voice_name":  "Ron",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Conversational",
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_660e5c11eef728e75f95f520",
+        "voice_name":  "Chester",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_66e26710ac44cf7c7ebfdb71",
+        "voice_name":  "Junseong",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_65cb142996cc219854a14065",
+        "voice_name":  "Royce",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Announcer",
+                          "Radio/Podcast",
+                          "E-learning/Explainer",
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_65bca7feace8a6fe13966252",
+        "voice_name":  "Callan",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_66d000ee0742c43c93a0ada1",
+        "voice_name":  "Dohyun",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_65b34b05b3fb844f3d6b7aab",
+        "voice_name":  "Simon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "News Reporter",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_66bf0dadd3f21fab24da6708",
+        "voice_name":  "Wonho",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "sad",
+                                            "happy",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_65681f21097fc4326ceb5e21",
+        "voice_name":  "Lloyd",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Announcer",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6513e3e95ea8304ce7602956",
+        "voice_name":  "Captain Bill",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6699eb3849dfac016c29444c",
+        "voice_name":  "Siwoo",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "child",
+        "use_cases":  [
+                          "Conversational",
+                          "Game"
+                      ]
+    },
+    {
+        "voice_id":  "tc_668f4f533ea5c6ce5e43fd48",
+        "voice_name":  "Woosung",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_66860d30b8d89a792aa89a51",
+        "voice_name":  "Jungseok",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts",
+                          "Documentary",
+                          "Voicemail/Voice Assistant"
+                      ]
+    },
+    {
+        "voice_id":  "tc_644a0a57228dab7c49bfdd25",
+        "voice_name":  "Eman",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Ads/Promotion",
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6673af2eb00e2565e6811c71",
+        "voice_name":  "Sio",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game"
+                      ]
+    },
+    {
+        "voice_id":  "tc_643797da6738883e188505b7",
+        "voice_name":  "Jake",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Announcer",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6426f7dc0084e83b73bf625a",
+        "voice_name":  "Koombo",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_66459a0194fba52219ade717",
+        "voice_name":  "Munsu",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_640997e4bb4c0b074eef945b",
+        "voice_name":  "Nathan",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_663c68c34652f4195ddea850",
+        "voice_name":  "Geunseok",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_64004d0d38436e7e4f15b2d4",
+        "voice_name":  "Klip Kim",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Rapper"
+                      ]
+    },
+    {
+        "voice_id":  "tc_662a05b17419f60500ac5630",
+        "voice_name":  "Ijun",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_63e45daee48a09fcf2d45402",
+        "voice_name":  "Brad",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Ads/Promotion",
+                          "Voicemail/Voice Assistant"
+                      ]
+    },
+    {
+        "voice_id":  "tc_63d3770f4d2e3367877bab36",
+        "voice_name":  "Neel",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_63b66515af8bf60c80b87642",
+        "voice_name":  "Cole",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "News Reporter",
+                          "Announcer",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_63aaebfaf95b9c23b311c88d",
+        "voice_name":  "Graham",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_65e02cd537dfdac4257ca957",
+        "voice_name":  "Risan Ji",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_638efbb7fac82cf52330aa49",
+        "voice_name":  "Noel",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Ads/Promotion",
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6386d6bf146d8da2a87ae54d",
+        "voice_name":  "Santa Claus",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "elder",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "Ads/Promotion",
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_658d1bea67f8ac8fa3cbbef9",
+        "voice_name":  "Juho",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_634f8ed3165554e4256eedac",
+        "voice_name":  "Jack-oâ-Lantern",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "whisper",
+                                            "normal",
+                                            "toneup",
+                                            "angry",
+                                            "sad",
+                                            "happy",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_634f8ecab302fd064cd4c20f",
+        "voice_name":  "Frankenstein",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_656059fc4db338e38f77d0bc",
+        "voice_name":  "Myungjoo",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_633d530f093ca33db95de02b",
+        "voice_name":  "Justin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "sad",
+                                            "happy",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_632a757ae7c78a412f5a36c0",
+        "voice_name":  "West",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Conversational",
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Ads/Promotion",
+                          "Voicemail/Voice Assistant",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6322940059d649937b97f326",
+        "voice_name":  "Rex",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "sad",
+                                            "happy",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "News Reporter",
+                          "Announcer",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_653220349ba8419521ae8a63",
+        "voice_name":  "Jaejun",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6304945aa2fc5265848f300e",
+        "voice_name":  "Sean",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "News Reporter",
+                          "Announcer",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62fb678f9b93d9207fa8c032",
+        "voice_name":  "Leo",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "child",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_64d5cd4c35618dd3797c20ed",
+        "voice_name":  "Pyeonghwa",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62e8f1e86627e27dcffd8884",
+        "voice_name":  "Owen",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_64b8fa538a31659e5e19db28",
+        "voice_name":  "Geunwoo",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62d66c463c017468ffbd53ed",
+        "voice_name":  "Cyrus",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "sad",
+                                            "tonedown",
+                                            "angry"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "News Reporter",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_648aaee9248bcd37dad435e6",
+        "voice_name":  "Mooyeol",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62ce546661d31a90a0f786d0",
+        "voice_name":  "Tim",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62baac399b316e5fec036a26",
+        "voice_name":  "Joshua",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "News Reporter",
+                          "Announcer",
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6465b87a4ee2060b333caf80",
+        "voice_name":  "Shinwook",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62849c6d4b8771d984837ff6",
+        "voice_name":  "P-0150N",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_643fa086abd682c4af98e853",
+        "voice_name":  "Minjoon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6271b9639382aa2d68e2d5c1",
+        "voice_name":  "Alex",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "child",
+        "use_cases":  [
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6271b909bc73a0f7591f147c",
+        "voice_name":  "Neoguard",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_625fb112fefc49af63d18127",
+        "voice_name":  "Edward",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_624ccc5a6ac2f03235ce042b",
+        "voice_name":  "Hans",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6426f7d00e18c1c9fede42d0",
+        "voice_name":  "Heejoon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6229652aa4ff5d1ee6bf4e5f",
+        "voice_name":  "Oscar",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "sad",
+                                            "tonedown",
+                                            "angry"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Announcer",
+                          "Radio/Podcast",
+                          "E-learning/Explainer",
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62031f1abb4297c1b176eb21",
+        "voice_name":  "Noa",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "News Reporter",
+                          "Announcer",
+                          "Ads/Promotion",
+                          "E-learning/Explainer",
+                          "Game",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61e7485c629d45e35622d1fc",
+        "voice_name":  "Aiden",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "E-learning/Explainer",
+                          "Game",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61d55adfd6c33fa5f66cb067",
+        "voice_name":  "Ryan",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Documentary",
+                          "Announcer",
+                          "Ads/Promotion",
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61b9a7e8a820ec151ae3c7f9",
+        "voice_name":  "Michael",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Announcer",
+                          "Game"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61b9a899a28a0b3f64b21d4f",
+        "voice_name":  "Carlos",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "sad",
+                                            "happy",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game",
+                          "Anime",
+                          "Rapper",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_63c76c6a1c6413ff949de534",
+        "voice_name":  "Hosik",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_63be4f4f564199aab7aad258",
+        "voice_name":  "Jin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61b007392f2010f2aa1a052a",
+        "voice_name":  "Dollar Jr.",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "sad",
+                                            "tonedown",
+                                            "angry"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Rapper"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61a6c0031649b652166c4f38",
+        "voice_name":  "Santa",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "elder",
+        "use_cases":  [
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61a6c1b345116a3825caf1cd",
+        "voice_name":  "Slushy",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "child",
+        "use_cases":  [
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_615c6abd9d9ddf11c620ad8e",
+        "voice_name":  "Dan",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "News Reporter",
+                          "Announcer",
+                          "E-learning/Explainer",
+                          "Game",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_63aaec04428dd87af3757d72",
+        "voice_name":  "Seojoon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6386d6aceb3125e51e3234e8",
+        "voice_name":  "Jolly",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61095ebc03c0e5b98f8ba69c",
+        "voice_name":  "Sindarin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "elder",
+        "use_cases":  [
+                          "Conversational",
+                          "Audiobook/Storytelling",
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61095f50876293488937d5db",
+        "voice_name":  "Kevin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6100287f568d6198a78bac31",
+        "voice_name":  "Keybo",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_60e5421475f558ee6473a00a",
+        "voice_name":  "David",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Radio/Podcast",
+                          "Ads/Promotion",
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_60e5426de8b95f1d3000d7b5",
+        "voice_name":  "Jack",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Audiobook/Storytelling",
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_636b1d93b58379d5c6b6aef7",
+        "voice_name":  "Sanghoon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_60d1f8de6eff8301c397014a",
+        "voice_name":  "George",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_60915a63276a6a7600d7acfa",
+        "voice_name":  "Xavier",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "E-learning/Explainer",
+                          "Voicemail/Voice Assistant",
+                          "Game",
+                          "Anime",
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_632293f759d649937b97f323",
+        "voice_name":  "Jinwoo",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Ads/Promotion",
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6088209815f2f9881e08e815",
+        "voice_name":  "Tommy",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "child",
+        "use_cases":  [
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6317255ba96fad352c4aebc8",
+        "voice_name":  "MBTI ET (M)",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_630ddadd236247454361ea05",
+        "voice_name":  "MBTI IT (M)",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6075b407b8a5c6f36b877c88",
+        "voice_name":  "Doughnut",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "child",
+        "use_cases":  [
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62f223abb9d09c5b3131c7f2",
+        "voice_name":  "Taesub",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "tonedown",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast",
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_603fa0459441d42bc362eadf",
+        "voice_name":  "Jimmy",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "teenager",
+        "use_cases":  [
+                          "Ads/Promotion",
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_602bd4fa8cfef478f1ceef0d",
+        "voice_name":  "Uncle Hank",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62a89759695ad26f7fb514d0",
+        "voice_name":  "Kiseob",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_627ae61ffdf53ef0bb6902cd",
+        "voice_name":  "Hyunmin",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "sad",
+                                            "happy",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6256118ea1103af69f0a87ec",
+        "voice_name":  "Morgan",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_624cccbcadcd568510764d65",
+        "voice_name":  "Gunwoo",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "child",
+        "use_cases":  [
+                          "Conversational",
+                          "Game",
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_623145248d2f689cc9bad655",
+        "voice_name":  "Hyunseung",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "sad",
+                                            "tonedown",
+                                            "happy"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_62031fd83afcc3bfff06883d",
+        "voice_name":  "Mister Gop",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "News Reporter"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61f0859907085fc68561c9a1",
+        "voice_name":  "Jihoon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61e7494d3cded5adfeab25b6",
+        "voice_name":  "Seungheon",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_618b1849ef7827cfea34ea1e",
+        "voice_name":  "Hanjun",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "sad",
+                                            "tonedown",
+                                            "happy"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary",
+                          "Audiobook/Storytelling",
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_618b18b0d3fbf96c644dbc0d",
+        "voice_name":  "Inseong",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "tonedown",
+                                            "sad"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Radio/Podcast"
+                      ]
+    },
+    {
+        "voice_id":  "tc_618203826672d21ebf37748e",
+        "voice_name":  "Dukgu",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "teenager",
+        "use_cases":  [
+                          "Anime"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61532c5aed9bfa8b54d5dff6",
+        "voice_name":  "Avong",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "child",
+        "use_cases":  [
+                          "Game"
+                      ]
+    },
+    {
+        "voice_id":  "tc_61250b6622f4f8c50236dc71",
+        "voice_name":  "SeokPil",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_60c8b9fcb1de2b377c6c2cb2",
+        "voice_name":  "DU5T",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Rapper"
+                      ]
+    },
+    {
+        "voice_id":  "tc_606c6c155e38f609c6789d2b",
+        "voice_name":  "Taebaek",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Conversational"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6050bb4a630c0d0906e65d5d",
+        "voice_name":  "Sungjun",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Ads/Promotion"
+                      ]
+    },
+    {
+        "voice_id":  "tc_603fa172a669dfd23f450abd",
+        "voice_name":  "Classic Narrator",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "TikTok/Reels/Shorts"
+                      ]
+    },
+    {
+        "voice_id":  "tc_60228e8775ecc9e7ab8ef334",
+        "voice_name":  "Sportscaster Tony",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "News Reporter"
+                      ]
+    },
+    {
+        "voice_id":  "tc_6010088f885570093ad24d53",
+        "voice_name":  "Salty Chan-gu",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5fcf92faf3a7f2000799cc0c",
+        "voice_name":  "Santa Reporter",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Game"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5faa3acfac283a00075d0d2e",
+        "voice_name":  "Instructor Han",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5d01a52bbb04140008a23f37",
+        "voice_name":  "Sungbae",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "sad",
+                                            "tonedown",
+                                            "angry"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "middle_age",
+        "use_cases":  [
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5eb55cf1f0b0a700071f89c7",
+        "voice_name":  "Yeonwoo",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "happy",
+                                            "angry",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Documentary"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5c3c52ca5827e00008dd7f36",
+        "voice_name":  "Jinhyuk",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "E-learning/Explainer"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5ecbbc6099979700087711d8",
+        "voice_name":  "Sunggyu",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5ecbbc7399979700087711db",
+        "voice_name":  "Junsang",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Audiobook/Storytelling"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5c547544fcfee90007fed455",
+        "voice_name":  "Chan-gu",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Game"
+                      ]
+    },
+    {
+        "voice_id":  "tc_5d01a52b63338e00072b8c9e",
+        "voice_name":  "Sungwook",
+        "models":  [
+                       {
+                           "version":  "ssfm-v30",
+                           "emotions":  [
+                                            "normal",
+                                            "whisper",
+                                            "toneup",
+                                            "angry",
+                                            "happy",
+                                            "sad",
+                                            "tonedown"
+                                        ]
+                       }
+                   ],
+        "gender":  "male",
+        "age":  "young_adult",
+        "use_cases":  [
+                          "Ads/Promotion"
+                      ]
+    }
+]
