@@ -100,7 +100,7 @@ async function requestLong<T>(path: string, body: unknown): Promise<T> {
   const timeoutId = setTimeout(() => controller.abort(), 10 * 60 * 1000); // 10분
 
   try {
-    const res = await fetch(`http://localhost:8000${path}`, {
+    const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000"}${path}`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(body),
