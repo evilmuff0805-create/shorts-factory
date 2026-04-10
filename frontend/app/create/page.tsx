@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -22,7 +22,7 @@ const STAGE_LABELS: Record<string, string> = {
   render: "5. 영상 렌더링",
 };
 
-export default function CreatePage() {
+function CreatePageInner() {
   const searchParams = useSearchParams();
 
   const [topic, setTopic] = useState("");
@@ -339,5 +339,13 @@ export default function CreatePage() {
         </Card>
       )}
     </div>
+  );
+}
+
+export default function CreatePage() {
+  return (
+    <Suspense fallback={<div className="p-8 text-center">로딩 중...</div>}>
+      <CreatePageInner />
+    </Suspense>
   );
 }
