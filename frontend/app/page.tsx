@@ -47,9 +47,8 @@ export default function HomePage() {
     loadTrending(category);
   }, []);
 
-  function handleCategoryChange(val: string) {
-    setCategory(val);
-    loadTrending(val);
+  function handleCategoryChange(val: string | null) {
+    if (val) { setCategory(val); loadTrending(val); }
   }
 
   function handleCreate(item: Recommendation) {
