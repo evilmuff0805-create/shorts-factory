@@ -39,7 +39,7 @@ export default function BatchPage() {
         const renderRes = await api.renderVideo(
           imagesRes.images.map((i) => i.url),
           ttsRes.audio,
-          scriptRes.script
+          scriptRes.subtitles
         );
         setResults((prev) => [...prev, { topic, video: renderRes.video, error: null }]);
       } catch (e: unknown) {
